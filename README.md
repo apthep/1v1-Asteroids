@@ -4,7 +4,7 @@
 
 1v1 Asteroid game built with Python, Pygame, and Uvage.
 
-Built by Andrew Thepvongs and Alex van Weezendonk
+Built by Andrew Thepvongs and Alex van Weezendonk.
 
 ## Description of the Game
 
