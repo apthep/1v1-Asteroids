@@ -1,10 +1,14 @@
 # 1v1-Asteroids
 
-![Game Demo](assets/game-demo.png)
-
 1v1 Asteroid game built with Python, Pygame, and Uvage.
 
 Built by Andrew Thepvongs and Alex van Weezendonk.
+
+![Game Demo](assets/game-demo.png)
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/ZgJT_Eaypf8/0.jpg)](https://youtu.be/ZgJT_Eaypf8)
 
 ## Description of the Game
 
